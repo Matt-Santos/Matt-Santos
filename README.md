@@ -4,7 +4,7 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 
 ## 🧰 &nbsp;My toolbox
 
-**Programing Languages**
+### **Programing Languages**
 
 <p>
 	<img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="50"/>
@@ -26,7 +26,7 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	</picture>
 </p>
 
-**Operating Systems**
+### **Operating Systems**
 
 <p>
 	<img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="50"/>
@@ -42,7 +42,7 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	</picture>
 </p>
 
-**Computer Aided Design** (Cadence Orcad, Proteus, Allegro, Keysight EDA/ADS, Pspice, Virtuoso, Spectre, Innovus, Icarus, LTSpice, AutoCAD, Solidworks, MPlabx, Keil Studio, Altium)
+### **Computer Aided Design**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/kicad/.github/main/images/kicad_logo_small.png" alt="KiCAD" height="50"/>
@@ -50,8 +50,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="images/mc12.png" alt="MicroCap12" height="50"/>
 	<img  src="images/system_verlog.svg" alt="System Verlog" height="50"/>
 </p>
+(Cadence Orcad, Proteus, Allegro, Keysight EDA/ADS, Pspice, Virtuoso, Spectre, Innovus, Icarus, LTSpice, AutoCAD, Solidworks, MPlabx, Keil Studio, Altium)
 
-**Analysis/Simulation Software** (ANSYS, EMPro, COMSOL Multiphysics)
+### **Analysis/Simulation Software**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matlab/matlab-original.svg" alt="Matlab" height="50"/>
@@ -60,8 +61,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="https://raw.githubusercontent.com/Kitware/ParaView/refs/heads/master/Clients/ParaView/pvIcon.ico" alt="ParaView" height="50"/>
 	<img  src="images/elmer-dark.png" alt="Elmer FEM" height="50"/>
 </p>
+(ANSYS, EMPro, COMSOL Multiphysics)
 
-**Documentation** (Microsoft Office)
+### **Documentation**
 
 <p>
 	<picture>
@@ -79,8 +81,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" height="50"/>
 	<img  src="https://raw.githubusercontent.com/SciDAVis/scidavis/refs/heads/master/doc/icons/scidavis.svg" alt="SciDavis" height="50"/>
 </p>
+(Microsoft Office)
 
-**Hardware** (PIC32, STM32)
+### **Hardware**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" alt="Arduino" height="50"/>
@@ -90,3 +93,4 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 		<img  src="images/osh-dark.png" alt="Open Source Hardware" height="50"/>
 	</picture>
 </p>
+(PIC32, STM32)
