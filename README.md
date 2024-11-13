@@ -90,17 +90,3 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 		<img  src="images/osh-dark.png" alt="Open Source Hardware" height="50"/>
 	</picture>
 </p>
-
-## Connect with Me
-
-<p>
-	<picture>
-		<source srcset="https://img.icons8.com/?size=100&id=12580&format=png&color=000000" media="(prefers-color-scheme: light)">
-		[<img src="https://img.icons8.com/?size=100&id=12580&format=png&color=ffffff" alt="Email" height="50">](mailto:matthewsantos@ieee.org)
-	</picture>
-	<picture>
-		<source srcset="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" media="(prefers-color-scheme: light)">
-		[<img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="Github" height="50">](https://github.com/matt-santos)
-	</picture>
-	[<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="50">](https://www.linkedin.com/in/matthewjsantos)
-</p>
