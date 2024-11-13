@@ -1,10 +1,10 @@
 # 👋 &nbsp;Hi there
 
-I am an electrical engineer based in Toronto, Canada. I enjoy working on projects that solve unique problems. I love combining my hobbies like electronics design, 3D printing and coding into various projects with RaspberryPi's, Arduinos, or dedicated PIC MCUs. Slightly obsessed with Home Automation and Home Labs. Feel free to [email me](mailto:matthewsantos@ieee.org) any time or find me on [Linkedin](https://www.linkedin.com/in/matthewjsantos). You can also check out my website at [Matt-Santos.github.io](https://Matt-Santos.github.io).
+I specialize in designing and optimizing electrical devices. This provides me with opportunities to solve unique challenges and investigate anomalies in existing systems. I also love combining my work experience with my hobbies like 3D printing, woodworking, and programing into various personal projects with RaspberryPi's, Arduinos, or dedicated PIC MCUs. Feel free to [email me](mailto:matthewsantos@ieee.org) any time or find me on [Linkedin](https://www.linkedin.com/in/matthewjsantos). You can also check out my website at [Matt-Santos.github.io](https://Matt-Santos.github.io).
 
 ## 🧰 &nbsp;My toolbox
 
-**Programing Languages**
+### **Programing Languages**
 
 <p>
 	<img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="50"/>
@@ -26,7 +26,7 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	</picture>
 </p>
 
-**Operating Systems**
+### **Operating Systems**
 
 <p>
 	<img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="50"/>
@@ -42,7 +42,7 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	</picture>
 </p>
 
-**Computer Aided Design** (Cadence Orcad, Proteus, Allegro, Keysight EDA/ADS, Pspice, Virtuoso, Spectre, Innovus, Icarus, LTSpice, AutoCAD, Solidworks, MPlabx, Keil Studio, Altium)
+### **Computer Aided Design**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/kicad/.github/main/images/kicad_logo_small.png" alt="KiCAD" height="50"/>
@@ -50,8 +50,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="images/mc12.png" alt="MicroCap12" height="50"/>
 	<img  src="images/system_verlog.svg" alt="System Verlog" height="50"/>
 </p>
+(Cadence Orcad, Proteus, Allegro, Keysight EDA/ADS, Pspice, Virtuoso, Spectre, Innovus, Icarus, LTSpice, AutoCAD, Solidworks, MPlabx, Keil Studio, Altium)
 
-**Analysis/Simulation Software** (ANSYS, EMPro, COMSOL Multiphysics)
+### **Analysis/Simulation Software**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matlab/matlab-original.svg" alt="Matlab" height="50"/>
@@ -60,8 +61,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="https://raw.githubusercontent.com/Kitware/ParaView/refs/heads/master/Clients/ParaView/pvIcon.ico" alt="ParaView" height="50"/>
 	<img  src="images/elmer-dark.png" alt="Elmer FEM" height="50"/>
 </p>
+(ANSYS, EMPro, COMSOL Multiphysics)
 
-**Documentation** (Microsoft Office)
+### **Documentation**
 
 <p>
 	<picture>
@@ -79,8 +81,9 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" height="50"/>
 	<img  src="https://raw.githubusercontent.com/SciDAVis/scidavis/refs/heads/master/doc/icons/scidavis.svg" alt="SciDavis" height="50"/>
 </p>
+(Microsoft Office)
 
-**Hardware** (PIC32, STM32)
+### **Hardware**
 
 <p>
 	<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" alt="Arduino" height="50"/>
@@ -90,3 +93,4 @@ I am an electrical engineer based in Toronto, Canada. I enjoy working on project
 		<img  src="images/osh-dark.png" alt="Open Source Hardware" height="50"/>
 	</picture>
 </p>
+(PIC32, STM32)
